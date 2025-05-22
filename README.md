@@ -12,10 +12,10 @@
 Hi there! I'm a Analytics Engineer | Data Engineer | Data Scientist, passionate about web3/blockchain, AI and crypto investing.
 With over 6 of experience in data consultancy, I specialize in data engineering, data science, full-stack development, data visualization and data strategy.
 
-- 💼 **Current Role**: Freelance data engineer and data scientist
+- 💼 **Current Role**: Freelance data engineer and data scientist | Data engineer @ Bitpanda
 - 🎓 **Education**: Business Information Management (class of 2016)
-- 🌱 **Currently Learning**: Full Stack Development
-- 🛠️ **Interests**: Coding, music production and investing
+- 🌱 **Currently Learning**: Full Stack Development (ReactJS, Express, Node.js, Vue.js)
+- 🛠️ ** Main Interests**: Coding, music production and investing
 
 ## Navigating My GitHub 📂
 
@@ -24,10 +24,6 @@ Here's how my repositories are organized:
 - **Professional Projects**: Industry-focused projects solving real-world problems.
 - **Bootcamp Projects**: Assignments and capstone projects from my learning journey.
 - **Open-Source Contributions**: Projects I’ve contributed to in the open-source community.
-
-**Popular Repositories**:
-- [amsterdam_airbnb](https://github.com/jovanglig/amsterdam_airbnb): About
-Repository containing my python code for my analysis on Airbnbs in Amsterdam.
 
 ## Skills & Tools 🛠️
 
