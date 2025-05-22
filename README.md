@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Jovan Gligorevic
+# Hi there, my name is Jovan Gligorevic 👋
 
 ** Analytics Engineer | Data Engineer | Data Scientist
 *“Exploring the world of data science”*
